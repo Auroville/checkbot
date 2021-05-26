@@ -9,8 +9,26 @@ sites:
     url: https://mmbooking.auroville.org.in
   - name: Pay Auroville
     url: https://pay.auroville.org
-  - name: AvToday Stage
-    url: https://avt.stage.auroville.org
+  - name: Proposal
+    url: https://proposals.auroville.org.in
+  - name: Edu Portal
+    url: https://edu.auroville.org
+  - name: Directory
+    url: https://directory.auroville.org.in
+  - name: Visit Auroville
+    url: https://visit.auroville.org 
+  - name: Housing
+    url: https://housing.auroville.org.in 
+  - name: Bazzar
+    url: https://bazaar.auroville.org.in
+  - name: Events
+    url: https://events.auroville.org.in
+  - name: Farms
+    url: https://farms-dairy.auroville.org.in
+  - name: Transport
+    url: https://transport.auroville.org.in
+  - name: Avtoday
+    url: https://avtoday.auroville.org  
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
