@@ -3,31 +3,31 @@ owner: Auroville # Your GitHub organization or username, where this repository l
 repo: checkbot # The name of this repository
 
 sites:
-  - name: Matrimandir
+  - name: Matrimandir Public Website
     url: https://matrimandir.org
-  - name: MMBooking
+  - name: Matrimandir Booking
     url: https://mmbooking.auroville.org.in
-  - name: Pay Auroville
+  - name: Talam Payment Pages
     url: https://pay.auroville.org
   - name: Proposal
     url: https://proposals.auroville.org.in
-  - name: Edu Portal
+  - name: Campus Platform
     url: https://edu.auroville.org
   - name: Directory
     url: https://directory.auroville.org.in
-  - name: Visit Auroville
+  - name: Visitors Centre Online Booking
     url: https://visit.auroville.org 
-  - name: Housing
+  - name: House Transfer 
     url: https://housing.auroville.org.in 
-  - name: Bazzar
+  - name: Bazaar
     url: https://bazaar.auroville.org.in
-  - name: Events
+  - name: Events Calendar
     url: https://events.auroville.org.in
-  - name: Farms
+  - name: Farm Management
     url: https://farms-dairy.auroville.org.in
   - name: Transport
     url: https://transport.auroville.org.in
-  - name: Avtoday
+  - name: Auroville Today
     url: https://avtoday.auroville.org  
   
 status-website:
@@ -35,14 +35,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Checkbot
+  introTitle: "**Checkbot** continously monitors sites developed and maintained by Talam and Auroville Web Services."
+  introMessage: The status of each of the sites can be seen below. If there is an incidence with one of these sites, our engineers are automatically notified and the status of the incident will be also be updated here as they work on to resolve it.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Issue Tracker
+      href: https://github.com/$OWNER/$REPO/issues
+  robotsText: "User-agent: * \n Disallow: /"
 
 assignees:
   - Azhaganandhan
