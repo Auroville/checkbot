@@ -30,7 +30,9 @@ sites:
   - name: Auroville Today
     url: https://avtoday.auroville.org  
   - name: Talam Pay
-    url: https://talampay.auroville.org/ 
+    url: https://talampay.auroville.org
+  - name: Resident Service
+    url: http://rsdashboard.auroville.org.in 
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
