@@ -22,9 +22,9 @@
     "url": "https://mmbooking.auroville.org.in",
     "icon": "https://favicons.githubusercontent.com/mmbooking.auroville.org.in",
     "slug": "matrimandir-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 357,
     "timeMonth": 380,
     "timeYear": 380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-15": 1
+    }
   },
   {
     "name": "Talam Payment Pages",
