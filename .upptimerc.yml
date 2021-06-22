@@ -32,7 +32,9 @@ sites:
   - name: Talam Pay
     url: https://talampay.auroville.org
   - name: Resident Service
-    url: http://rsdashboard.auroville.org.in 
+    url: https://rsdashboard.auroville.org.in 
+  - name: Talampay stage
+    url: https://talampaystage.auroville.org.in
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
